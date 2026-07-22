@@ -77,7 +77,7 @@ This dashboard was designed to answer key HR and workforce management questions:
 - **Power BI** — Dashboard development and data visualization
 - **DAX** — Measures and calculated columns
 - **Power Query** — Data cleaning and transformation
-- **Excel / CSV** — Source data
+- **CSV / Excel** — Source data
 
 ---
 
@@ -100,17 +100,17 @@ The dashboard includes key HR performance indicators such as:
 
 ## 🧮 Data Analysis
 
-The project uses DAX measures and calculated columns to calculate workforce and HR metrics.
+The project uses Power Query and DAX to transform the data and calculate workforce and HR metrics.
 
 Examples include:
 
 - Employee counts by employment status
 - Termination rates
 - High-performing employee percentages
-- Performance ranking
 - Average engagement and satisfaction
 - Average absences
 - Employee termination trends
+- Workforce distribution across departments
 
 ---
 
@@ -132,27 +132,35 @@ Examples include:
 
 ## 💡 Business Insights
 
-Key findings and recommendations from the analysis will be documented after completing the final analysis of the dashboard.
+The dashboard provides a comprehensive view of workforce composition, employee attrition, retention patterns, and performance.
+
+The analysis can help HR teams and management:
+
+- Identify departments with higher employee turnover
+- Understand the most common reasons for employee termination
+- Monitor changes in employee termination over time
+- Compare active and terminated employees across key workforce metrics
+- Identify relationships between employee engagement, satisfaction, absenteeism, and performance
+- Support data-driven workforce and employee retention strategies
+
+Detailed insights and recommendations can be added after completing the final analysis of the dashboard.
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-HR-Workforce-Analytics-PowerBI/
+HR-PowerBI/
 │
 ├── README.md
 │
-├── data/
+├── Data/
 │   └── HRDataset_v14.csv
 │
 ├── PowerBI/
 │   └── HR_Workforce_Analytics.pbix
 │
-├── screenshots/
-│   ├── workforce_overview.png
-│   ├── attrition_retention.png
-│   └── performance_engagement.png
-│
-└── documentation/
-    └── insights_and_recommendations.md
+└── ScreenShots/
+    ├── workforce_overview.png
+    ├── attrition_retention.png
+    └── performance_engagement.png
