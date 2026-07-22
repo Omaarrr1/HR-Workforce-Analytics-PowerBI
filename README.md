@@ -118,15 +118,15 @@ Examples include:
 
 ### Workforce Overview
 
-![Workforce Overview](screenshots/workforce_overview.png)
+![Workforce Overview](ScreenShots/workforce_overview.png)
 
 ### Employee Attrition & Retention
 
-![Employee Attrition & Retention](screenshots/attrition_retention.png)
+![Employee Attrition & Retention](ScreenShots/attrition_retention.png)
 
 ### Employee Performance & Engagement
 
-![Employee Performance & Engagement](screenshots/performance_engagement.png)
+![Employee Performance & Engagement](ScreenShots/performance_engagement.png)
 
 ---
 
