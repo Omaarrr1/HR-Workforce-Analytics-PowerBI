@@ -118,18 +118,17 @@ Examples include:
 
 ### Workforce Overview
 
-![Workforce Overview](ScreenShots/workforce_overview.png)
+![Workforce Overview](HR-PowerBI/ScreenShots/workforce_overview.png)
 
 ### Employee Attrition & Retention
 
-![Employee Attrition & Retention](ScreenShots/attrition_retention.png)
+![Employee Attrition & Retention](HR-PowerBI/ScreenShots/attrition_retention.png)
 
 ### Employee Performance & Engagement
 
-![Employee Performance & Engagement](ScreenShots/performance_engagement.png)
+![Employee Performance & Engagement](HR-PowerBI/ScreenShots/performance_engagement.png)
 
 ---
-
 ## 💡 Business Insights
 
 The dashboard provides a comprehensive view of workforce composition, employee attrition, retention patterns, and performance.
